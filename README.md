@@ -1,0 +1,4 @@
+textCompress
+============
+
+Text compression algorithm
